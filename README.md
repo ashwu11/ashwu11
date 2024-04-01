@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is Ashley (she/her) and I'm a **Computer Science** student at the **University of British Columbia**. 
+I'm an aspiring software engineer looking to explore the tech industry. Thanks for visiting!
+
+- 🔭 I’m currently working on [Haku Dash](https://haku-dash.vercel.app), a web adventure game inspired by the Studio Ghibli film, *Spirited Away*
+- 🌱 I’m currently learning web development technologies such as React, and looking to explore mobile development
+- ⚡ Fun fact: I can juggle!
 
 <!--
 **ashwu11/ashwu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
