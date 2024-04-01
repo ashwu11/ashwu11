@@ -4,10 +4,10 @@ My name is Ashley (she/her) and I'm a **Computer Science** student at the **Univ
 I'm an aspiring software developer looking to explore the tech industry. Thanks for visiting!
 
 - 🔭 I’m currently working on [Haku Dash](https://haku-dash.vercel.app), a web adventure game inspired by the Studio Ghibli film, *Spirited Away*
-- 🌱 I’m currently learning web development technologies like React, and looking to explore mobile development
+- 🌱 I’m currently learning web development technologies like **React**
 - ⚡ Fun fact: I can juggle :)
   
-### 💻 Languages
+### Languages
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" />&nbsp;
@@ -17,9 +17,19 @@ I'm an aspiring software developer looking to explore the tech industry. Thanks 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS" alt="CSS" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
 
-### 📫 Connect
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:ashleywu2004@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ashley-wu-810251281/)
+### Libraries and Tools
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="JUnit" alt="JUnit" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40" />&nbsp;
+
+### Connect
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="40"/>](mailto:ashleywu2004@gmail.com) &nbsp;
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="40"/>](https://www.linkedin.com/in/ashley-wu-810251281/) &nbsp;
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="40"/>](https://instagram.com/ashley.wuu_)
+
 
 <!--
 **ashwu11/ashwu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
