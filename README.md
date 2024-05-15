@@ -4,8 +4,8 @@ My name is Ashley (she/her) and I'm a **Computer Science** student at the **Univ
 I'm an aspiring software developer looking to explore the tech industry. Thanks for visiting!
 
 - 🔭 I’m currently working on [Haku Dash](https://haku-dash.vercel.app), a web adventure game inspired by the Studio Ghibli film, *Spirited Away*
-- 🌱 I’m currently learning web development technologies like **React**
-- ⚡ Fun fact: I can juggle :)
+- 🌱 I’m currently learning web development technologies and **Kotlin** for android development
+- ⚡ Fun facts: I can juggle + I love crocheting :)
   
 ### Languages
 
