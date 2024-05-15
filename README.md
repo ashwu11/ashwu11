@@ -5,7 +5,7 @@ I'm an aspiring software developer looking to explore the tech industry. Thanks 
 
 - 🔭 I’m currently working on [Haku Dash](https://haku-dash.vercel.app), a web adventure game inspired by the Studio Ghibli film, *Spirited Away*
 - 🌱 I’m currently learning web development technologies and **Kotlin** for android development
-- ⚡ Fun facts: I can juggle + I love crocheting :)
+- ⚡ Fun facts: I can juggle + I enjoy crocheting :)
   
 ### Languages
 
@@ -16,19 +16,26 @@ I'm an aspiring software developer looking to explore the tech industry. Thanks 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS" alt="CSS" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="45" height="43" />&nbsp;
 
-### Libraries and Tools
+### Libraries, Frameworks, Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="JUnit" alt="JUnit" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="43" height="40" />&nbsp;
+<img src="https://developer.android.com/static/images/training/testing/espresso.png" title="Espresso" alt="Espresso" width="40" height="40" />&nbsp;
+<!--  
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40" />&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="34" height="38" />&nbsp; 
+-->
+
 
 ### Connect
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="40"/>](mailto:ashleywu2004@gmail.com) &nbsp;
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="40"/>](https://www.linkedin.com/in/ashley-wu-810251281/) &nbsp;
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="40"/>](https://instagram.com/ashley.wuu_)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="45"/>](https://www.linkedin.com/in/ashley-wu-810251281/) &nbsp;
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="40"/>](https://instagram.com/ashley.wuu_) &nbsp;
 
 
 <!--
