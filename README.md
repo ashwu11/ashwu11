@@ -5,7 +5,7 @@ I'm an aspiring software developer looking to explore the tech industry. Thanks 
 
 - 🔭 I’m currently working on [Haku Dash](https://haku-dash.vercel.app), a web adventure game inspired by the Studio Ghibli film, *Spirited Away*
 - 🌱 I’m currently learning web development technologies and **Kotlin** for android development
-- ⚡ Fun facts: I can juggle + I enjoy crocheting :)
+- ⚡ Fun fact: I run a small crochet business :)
   
 ### Languages
 
