@@ -1,7 +1,7 @@
 # Hi there 👋
 
 My name is Ashley (she/her) and I'm a **Computer Science** student at the **University of British Columbia**. 
-I'm an aspiring software engineer looking to explore the tech industry. Thanks for visiting!
+I'm an aspiring software engineer exploring opportunities in the tech industry. Thanks for visiting!
 
 - 🌱 I’m interested in web development technologies and game making
 - 🔭 I enjoyed working on [Haku Dash](https://haku-dash.vercel.app), a web adventure game inspired by the Studio Ghibli film, *Spirited Away*
@@ -29,6 +29,9 @@ I'm an aspiring software engineer looking to explore the tech industry. Thanks f
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="34" height="38" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="JUnit" alt="JUnit" width="40" height="40" />&nbsp;
 <img src="https://developer.android.com/static/images/training/testing/espresso.png" title="Espresso" alt="Espresso" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40" />&nbsp;
 
 ### Developer Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
