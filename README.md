@@ -3,7 +3,7 @@
 My name is Ashley (she/her) and I'm a **Computer Science** student at the **University of British Columbia**. 
 I'm an aspiring software engineer exploring opportunities in the tech industry. Thanks for visiting!
 
-- 🌱 I’m interested in web development technologies and game making
+- 🌱 I’m interested in web development, game making, and building software that make an impact
 - 🔭 I enjoyed working on [Haku Dash](https://haku-dash.vercel.app), a web adventure game inspired by the Studio Ghibli film, *Spirited Away*
 - ⚡ Fun fact: I run a small crochet business :)
   
@@ -41,7 +41,7 @@ I'm an aspiring software engineer exploring opportunities in the tech industry. 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="ScikitLearn" alt="ScikitLearn" width="40" height="40" />&nbsp; 
 
-### Connect
+### Let's Connect!
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="40"/>](mailto:ashleywu2004@gmail.com) &nbsp;
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="45"/>](https://www.linkedin.com/in/ashley-wu-810251281/) &nbsp;
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="40"/>](https://instagram.com/ashley.wuu_) &nbsp;
