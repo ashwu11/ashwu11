@@ -5,7 +5,7 @@ I'm an aspiring software engineer exploring opportunities in the tech industry. 
 
 - 🌱 I’m interested in web development, game making, and building software that make an impact
 - 🔭 I enjoyed working on [Haku Dash](https://haku-dash.vercel.app), a web adventure game inspired by the Studio Ghibli film, *Spirited Away*
-- ⚡ Fun fact: I run a small crochet business :)
+- ⚡ Fun fact: I run a small crochet business :D
   
 ### Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;
