@@ -5,22 +5,24 @@ I'm an aspiring software engineer exploring opportunities in the tech industry. 
 
 - 🌱 I’m interested in web development, game making, and building software that make an impact
 - 🔭 I enjoyed working on [Haku Dash](https://haku-dash.vercel.app), a web adventure game inspired by the Studio Ghibli film, *Spirited Away*
-- ⚡ Fun fact: I run a small crochet business :D
+- ⚡ Fun fact: I enjoy crochet and currently run a small crochet business in my free time!
   
 ### Languages
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS" alt="CSS" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="45" height="43" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="40" height="40" />&nbsp;
 
-### Libraries / Frameworks
+### Libraries & Frameworks
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40" />&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40" />&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" />&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40" />&nbsp; 
@@ -33,8 +35,10 @@ I'm an aspiring software engineer exploring opportunities in the tech industry. 
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40" />&nbsp;
 
-### Developer Tools
+### Development Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure" alt="Azure" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40" />&nbsp;
